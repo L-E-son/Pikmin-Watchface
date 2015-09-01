@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ellisonjohnm@gmail.com",
+    "longName": "Pikmin Clock (Pebble C)",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Pikmin_Minimized_2.png",
+                "name": "3Pikmin",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Pikmin.ttf",
+                "name": "FONT_WM_24",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pikmin Clock (Pebble C)",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "46b87e2e-a8fd-480d-ac9a-3633f48fb561",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
